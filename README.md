@@ -13,6 +13,7 @@
 <details>
 <summary>Supported File Managers</summary>
 
+
 - [Lazygit](https://github.com/jesseduffield/lazygit)<sup>1</sup>
 - [Joshuto](https://github.com/kamiyaa/joshuto)
 - [Ranger](https://github.com/ranger/ranger)
